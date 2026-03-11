@@ -1,0 +1,5 @@
+{
+  "name": "pulseai-backend",
+  "version": "1.0.0",
+  "description": "Pulse AI backend proxy for Claude API"
+}
